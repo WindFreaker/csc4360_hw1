@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405677901307",
+    "project_id": "csc-4360",
+    "storage_bucket": "csc-4360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405677901307:android:81fab2c077018af4ff375e",
+        "android_client_info": {
+          "package_name": "com.windfreaker.csc4360_hw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405677901307-2l8f5as6b017kpf2nn12tvbad3vd05ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpoVZmbTNGmF5Z2ThjQpm8at_CP4VTW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405677901307-2l8f5as6b017kpf2nn12tvbad3vd05ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
