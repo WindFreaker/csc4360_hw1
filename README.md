@@ -1,16 +1,1 @@
-# csc4360_hw1
-
-Homework #1 for my CSC 4360 class.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Quick edit of the README to provide instructions on how to compile and run my application. I don't have access to my computer right now so I can't be 100% sure, but using the command 'flutter run' or 'flutter run lib/main.dart' should compile it into an application just like it did in my test environment. All the files I created (and then some) are located in this repository.
